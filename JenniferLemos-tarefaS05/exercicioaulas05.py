@@ -1,4 +1,4 @@
-dataset = {}  # Dicionário com escopo global para armazenar os dados das alunas, usado função, whilw, if, else, for, try, except ( Com os MVPS de 1 a 5 )
+dataset = {}  # Dicionário global para armazenar os dados das alunas, usado função, while, if, else, for, try, except ( Com os MVPS de 1 a 5 dados em sala de aula )
 
 def main():
     print("\n--- Seja bem vinda à Escola do Reprograma! ---\n")
